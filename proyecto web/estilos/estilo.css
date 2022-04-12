@@ -1,0 +1,113 @@
+ /*selector universal*/
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box
+
+}
+h1{
+	font-family:'Impact';
+	background-color:#FFFFFF;
+	text-align:center;
+	color:#444;
+	}
+ body{
+	 background:#BEBEBE;
+	 font-family:'consolas';
+	 
+ }
+ header{
+	 background:#c4E1FF;
+	 width:100%;
+	 clear:both;
+	 content:'';
+	 display:table;
+}
+ .menu{
+	 width:800px;
+	 height:64px;
+	 float:left;
+	 padding:0px;
+ }
+ img{
+	 width:150px;
+	 height:60px;
+	 float:left;
+	 padding:8px;
+ }
+ #encabezadoimagen{
+	 width:650px;
+	 height:115px;
+	 float:left;
+	 padding:3px;
+ }
+ #comunidadimagen{
+	 width:300px;
+	 height:300px;
+	 float:left;
+	 padding:0px;
+ }
+#iconosimagen{
+	 width:650px;
+	 height:115px;
+	 float:left;
+	 padding:3px;
+ }
+ nav ul li {
+	 list-style:none;
+	 margin-left:63px;
+	 padding:11px 0;
+	 float:left;
+ }
+ nav ul li a {
+	 text-decoration:none;
+	 color:#444;
+	 font-weight:bold;
+ }
+ nav ul li a: :defore{
+	 display:block;
+	 content:'';
+	 width:0%;
+	 background: #444;
+	 height: 5px;
+	 top:0;
+	 position:absolute;
+	 transition:width:5s;
+ }
+ nav ul li a :hover: : before{
+	 width:100%
+ }
+div#menu {
+	margin:auto;
+	margin-top:24px;
+	width:960px;
+	height:800px;
+	background-color:#BEBEBE;
+}
+ 
+ div#comunidad{
+	 float:right;
+	 width:300px;
+	 height:900px;
+	 background-color:#BEBEBE ;
+ }
+ div#lomasvisto{
+	 width:640;
+	 height:100px;
+	 background-color:#BEBEBE;
+ }
+ div#misionyvision{
+	 margin-top:12px;
+	 width:750px;
+	 height:700px;
+	 background-color:#BEBEBE;
+ }
+	
+	
+	
+	 
+	
+	
+ 
+ 
+ 

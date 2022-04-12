@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+21
+'nota del examen uno'
+5
+1
+7
+notaUno
+4
+1
+21
+'nota del examen dos'
+5
+1
+7
+notaDos
+4
+1
+22
+'nota del examen tres'
+5
+1
+8
+notaTres
+6
+3
+12
+valornotaUno
+14
+notaUno * 0.25
+12
+valornotaDos
+14
+notaDos * 0.25
+13
+valornotaTres
+15
+notaTres * 0.50
+6
+1
+9
+notaTotal
+44
+valornotaUno + valornotaDos +  valornotaTres
+4
+1
+36
+'nota total del alumno: ' ,notaTotal
+1
